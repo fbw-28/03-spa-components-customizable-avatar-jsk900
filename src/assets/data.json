@@ -1,0 +1,98 @@
+[
+  {
+    "size": "S",
+    "width": "30",
+    "height": "30",
+    "radius": "0",
+    "image": "forest.jpg",
+    "type": "Square"
+  },
+  {
+    "size": "S",
+    "width": "30",
+    "height": "30",
+    "radius": "8px",
+    "image": "forest.jpg",
+    "type": "Rounded"
+  },
+  {
+    "size": "S",
+    "width": "30",
+    "height": "30",
+    "radius": "50%",
+    "image": "forest.jpg",
+    "type": "Circle"
+  },
+  {
+    "size": "M",
+    "width": "60",
+    "height": "60",
+    "radius": "0",
+    "image": "forest.jpg",
+    "type": "Square"
+  },
+  {
+    "size": "M",
+    "width": "60",
+    "height": "60",
+    "radius": "8px",
+    "image": "forest.jpg",
+    "type": "Rounded"
+  },
+  {
+    "size": "M",
+    "width": "60",
+    "height": "60",
+    "radius": "50%",
+    "image": "forest.jpg",
+    "type": "Circle"
+  },
+  {
+    "size": "L",
+    "width": "120",
+    "height": "120",
+    "radius": "0",
+    "image": "forest.jpg",
+    "type": "Square"
+  },
+  {
+    "size": "L",
+    "width": "120",
+    "height": "120",
+    "radius": "8px",
+    "image": "forest.jpg",
+    "type": "Rounded"
+  },
+  {
+    "size": "L",
+    "width": "120",
+    "height": "120",
+    "radius": "50%",
+    "image": "forest.jpg",
+    "type": "Circle"
+  },
+  {
+    "size": "XL",
+    "width": "200",
+    "height": "200",
+    "radius": "0",
+    "image": "forest.jpg",
+    "type": "Square"
+  },
+  {
+    "size": "XL",
+    "width": "200",
+    "height": "200",
+    "radius": "8px",
+    "image": "forest.jpg",
+    "type": "Rounded"
+  },
+  {
+    "size": "XL",
+    "width": "200",
+    "height": "200",
+    "radius": "50%",
+    "image": "forest.jpg",
+    "type": "Circle"
+  }
+]
