@@ -8,25 +8,8 @@ const Card = ({
   radius = '0',
   image = 'forest.jpg',
   type = 'square',
+  boxHeight = '150',
 }) => {
-  //Determine card size dependent on image height
-  let boxHeight;
-  switch (size) {
-    case 'S':
-      boxHeight = '120';
-      break;
-    case 'M':
-      boxHeight = '150';
-      break;
-    case 'L':
-      boxHeight = '210';
-      break;
-    case 'XL':
-      boxHeight = '290';
-      break;
-    default:
-  }
-
   return (
     <section style={{ height: `${boxHeight}px` }}>
       <img

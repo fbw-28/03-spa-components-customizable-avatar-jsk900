@@ -15,6 +15,7 @@ class App extends Component {
         radius={avatar.radius}
         image={avatar.image}
         type={avatar.type}
+        boxHeight={avatar.boxHeight}
       />
     ));
     return <main>{showData}</main>;
